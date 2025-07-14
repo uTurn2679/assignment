@@ -1,0 +1,267 @@
+
+
+.open-sans-assignment {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.header{
+    background-image: url('./Assets/Hero-bg.png');
+}
+
+.logo{
+    color:#4E47FF;
+    font-size: 34px;
+}
+
+
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 150px;
+}
+.btn{
+    background-color: #4E47FF;
+    border-radius: 10px;
+    color:white;
+    padding: 12px 36px;
+    font-weight: bold;
+    font-size: 16px;
+    
+}
+.btn1{
+    background-color: #4E47FF;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    color:white;
+    padding: 12px 36px;
+    text-align: center;
+    margin-left: 633px;
+    margin-bottom: 152px;
+}
+.btn3{
+    background-color: #4E47FF;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 12px 36px;
+    text-align: center;
+   
+}
+#color{
+    color:white;
+    text-decoration: none;
+     font-weight: bold;
+    font-size:16px;
+}
+.para{
+    font-weight: bold;
+    font-size: 65px;
+    margin:309px 152px 37px 267.5px;
+    
+}
+.banner1{
+    font-weight: bold;
+    font-size: 42px;
+}
+.banner{
+    margin-left: 141px;
+    margin-right: 159px;
+    margin-bottom: 62.5px;
+    display: flex;
+    justify-content: space-between;
+}
+.banner2{
+    font-weight:600;
+    font-size: 24px;
+}
+.review{
+    display: flex;
+    justify-content: space-around;
+}
+.review_part{
+    margin-left: 141px;
+    margin-right: 159px;
+    background-color: hwb(242 28% 0% / 0.1
+    );
+}
+.user{
+    padding-left: 142px;
+    padding-top: 50px;
+    padding-right: 142px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 38px;
+}
+
+.a{
+    font-size: 80px;
+    font-weight: bold;
+    color:#4E47FF;
+}
+.b{
+    font-size: 20px;
+    font-weight:400;
+}
+.review2{
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-size: 42px;
+    text-align: center;
+}
+
+.posters{
+    display: flex;
+}
+.k{
+    display:flex;
+    align-items: center;
+}
+.pic-text{
+    font-weight: bold;
+    font-size: small;
+}
+.r{
+    display: flex;
+}
+
+
+.poster{
+    margin-left: 40px;
+    margin-right: 70px;
+  box-shadow: 0px 6px 50px 0px rgba(0,0,0,.06);
+  padding-right: 10px;
+   
+}
+.poster1{
+    margin-left: 350px;
+    margin-right: 100px;
+    box-shadow: 0px 6px 50px 0px rgba(0,0,0,.06);
+}
+.usr{
+    font-size: 25px;
+}
+
+.userReview{
+    margin-top: 137px;
+    margin-bottom: 137px;
+}
+.focas{
+    font-weight: bold;
+    font-size: 50px;
+    margin-left: 476px;
+    margin-bottom: 20px;
+}
+.focas-t{
+     margin-left: 476px;
+}
+
+.btn4{
+    background-color: #4E47FF;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 12px 36px;
+    text-align: center;
+    margin-left: 636.5px;
+   
+}
+.photo1{
+    width:"840px"; 
+    height:"364.77px";
+    border-radius: 48px;
+    margin-left: 314px;
+    margin-top: 20px;
+}
+
+.text-last{
+    font-weight: bold;
+    font-size: 97px;
+}
+.form{
+   margin-top: 71px;
+}
+.last{
+    display: flex;
+    margin-top: 92.23px;
+    margin-left: 150px;
+     align-items: center;
+}
+
+.d{
+    width: 528px;
+    height: 232px;
+    margin-right: 115px;
+    margin-top: 200px;
+    margin-bottom: 214px;
+}
+.f{
+    width: 497px;
+    height: 70px;
+    padding-top: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 10px;
+}
+.u{
+    font-weight: 500;
+    font-size: 18px;
+ 
+}
+#area{
+    height: 135px;
+}
+
+.btn5{
+    background-color: #4E47FF;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+      padding-left: 201px;
+    padding-bottom: 19px;
+    padding-right: 201px;
+    padding-top: 19px;
+   
+}
+.butt{
+    margin-bottom: 71px;
+    margin-left: 793px;
+  
+}
+.l{
+    height: 221px;
+    width: 531px;
+    margin-left: 454px;
+    margin-top: 104px;
+    margin-right: 455px;
+
+}
+
+.lo{
+    color:#4E47FF;
+    font-size: 80px;
+    font-weight: bold;
+    padding-left: 120px;
+}
+.link-{
+    display: flex;
+    gap: 65px;
+    padding-bottom:103px;;
+    
+}
+#color1{
+    color:black;
+    text-decoration: none;
+     font-weight: bold;
+    font-size:16px;
+}
